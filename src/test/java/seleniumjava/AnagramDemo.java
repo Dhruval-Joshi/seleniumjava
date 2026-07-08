@@ -5,6 +5,7 @@ public class AnagramDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+                                      //git demo pull
 		String a = "Dhruval";
 		String b = "lavuhDr";
 		int counter =0;
